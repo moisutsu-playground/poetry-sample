@@ -1,7 +1,9 @@
 README.rst
 setup.py
 poetry_sample/__init__.py
+poetry_sample/hello.py
 poetry_sample.egg-info/PKG-INFO
 poetry_sample.egg-info/SOURCES.txt
 poetry_sample.egg-info/dependency_links.txt
+poetry_sample.egg-info/requires.txt
 poetry_sample.egg-info/top_level.txt
